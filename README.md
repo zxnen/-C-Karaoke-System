@@ -1,4 +1,4 @@
-# -C-Karaoke-System
+Karaoke-System
 This Karaoke System is a console-based application built using C++ that allows users to manage and interact with a personal music library. The system provides multiple features for users to add songs, search for specific tracks, view recently added and recently played songs, and even play songs in shuffle mode.
 
 Features:
